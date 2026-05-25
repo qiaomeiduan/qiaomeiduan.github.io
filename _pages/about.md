@@ -52,7 +52,6 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <ul>
   <li>Proposed a structural granular-ball fuzzy set framework for robust SVM learning.</li>
   <li>Designed quality-weighted class centers using granular-ball radius and purity.</li>
-  <li>Built a fuzzy scoring mechanism to reduce the influence of noisy and boundary samples.</li>
   <li>Work published in review at IEEE Transactions on Knowledge and Data Engineering (SCI Q1 Top, 1st round revision).</li>
 </ul>
 </div></div>
@@ -141,6 +140,17 @@ In the competitions below, I mainly contributed to research design, system devel
 <span class="anchor" id="practice"></span>
 
 ## 🚀 Innovation and Engineering Practice
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/tencent-cloud-internship.jpg" alt="Tencent Cloud Internship" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Tencent Cloud Intelligence</h3>
+<p>Website: <a href="https://app-tc.mokahr.com/campus-recruitment/csig/20001#/" target="_blank" rel="noopener noreferrer">cloud.tencent.com</a></p>
+<ul>
+  <li>AI Application Product Delivery Architect Intern</li>
+  <li>Worked on private deployment and system integration for AI products in financial-industry scenarios</li>
+  <li>Technical stack: Python, cloud architecture, containers, distributed systems, platform architecture, and virtual machines</li>
+</ul>
+</div></div>
+<span class="anchor" id="leadership"></span>
 
 ## 🌏 Leadership and Academic Development
 ### Undergraduate Research and Innovation Projects
