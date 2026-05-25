@@ -85,18 +85,6 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
     </ul>
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Smart Home Emotion Recognition" width="100%" /></div></div>
-<div class="paper-box-text">
-<h3>Smart Home Emotion Recognition System Based on Sparse Transformer and Graph Enhancement</h3>
-<p><strong>Principal Investigator | 2025.04 - 2026.04</strong></p>
-<ul>
-  <li>Designed a multimodal emotion recognition system for smart home scenarios.</li>
-  <li>Integrated visual and speech signals with sparse Transformer feature extraction and graph-enhanced modeling.</li>
-  <li>Improved emotion recognition accuracy and stability in complex environments.</li>
-  <li>Funded by the Chongqing Undergraduate Innovation Training Program, No. S202510635047.</li>
-</ul>
-</div></div>
-
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Industrial Identity Verification" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Identity Verification and Perception Warning System for Low-Quality Industrial Environments</h3>
@@ -106,6 +94,34 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Integrated masked face generation and recognition, voiceprint recognition, WiFi-CSI spatiotemporal modeling, and multi-sensor edge computing.</li>
   <li>Built an integrated workflow for identity verification, abnormal perception, and hierarchical warning.</li>
 </ul>
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Xunfei Smart Learning" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Xunfei Smart Learning - Personalized AI System for Early Childhood Education</h3>
+<p><strong>Core NLP Developer | 2025</strong></p>
+<p><strong>Overview:</strong> This project explores AI-powered early childhood education with large language models, multimodal interaction, educational knowledge resources, and personalized learning support. It aims to provide children with adaptive, interactive, and scenario-aware learning experiences.</p>
+<p><strong>My contributions:</strong></p>
+<ul>
+  <li>Worked on NLP-related modules for AI-assisted learning interaction and content understanding.</li>
+  <li>Participated in integrating LLM capabilities with educational resources such as knowledge graphs, digital books, videos, and teaching materials.</li>
+  <li>Supported the design of personalized learning workflows for adaptive recommendation and child-friendly interaction.</li>
+</ul>
+<p><a href="/files/Xunfei-Smart-Learning.pdf">Project PDF</a></p>
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Zhiyu Anxing Public Transportation Anomaly Detection" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Zhiyu Anxing - Public Transportation Anomaly Detection System</h3>
+<p><strong>Core Member | 2025</strong></p>
+<p><strong>Overview:</strong> This project builds an intelligent abnormal-behavior detection system for public transportation scenarios, including buses, taxis, ride-hailing vehicles, and rail transit. The system combines vision, audio, multimodal fusion, and decision support to improve real-time safety monitoring while considering privacy protection.</p>
+<p><strong>My contributions:</strong></p>
+<ul>
+  <li>Participated in designing a lightweight detection framework based on YOLOv8 and MobileNetV4 for abnormal behavior recognition.</li>
+  <li>Worked on multimodal anomaly detection involving driver status, passenger behavior, and abnormal sound recognition.</li>
+  <li>Supported the integration of feature fusion and decision strategies for real-time warning, data analysis, and platform demonstration.</li>
+</ul>
+<p><a href="/files/Zhiyu-Anxing.pdf">Project PDF</a></p>
 </div></div>
 
 <span class="anchor" id="awards"></span>
