@@ -72,16 +72,17 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
 ## 🚀 Selected Projects
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Aero-engine Gear Health Management" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/Aero-Engine Gears.png" alt="Aero-engine Gear Health Management" width="100%" /></div></div>
 <div class="paper-box-text">
-<h3>Integrated Intelligent Health Management System for Aero-Engine Gears</h3>
-<p><strong>Principal Investigator | 2025.07 - Present</strong></p>
-<ul>
-  <li>Built a software-hardware collaborative system for aero-engine gear health monitoring.</li>
-  <li>Trained models for fault recognition, fine-grained damage detection, and remaining useful life prediction.</li>
-  <li>Deployed related models to hardware inspection terminals and a backend management platform.</li>
-  <li>Supported by a national-level undergraduate innovation training program; outputs include two authorized patents and two software copyrights.</li>
-</ul>
+    <h3>Integrated Intelligent Health Management System for Aero-Engine Gears</h3>
+    <p><strong>Principal Investigator | 2025.07 - Present</strong></p>
+    <p>This project aims to develop a full-cycle intelligent health management system for aero-engine gears, integrating real-time condition monitoring, fault diagnosis, damage assessment, and remaining useful life prediction to improve operational safety and maintenance efficiency.</p>
+    <ul>
+      <li>Led the design and construction of a software-hardware collaborative system for aero-engine gear health monitoring.</li>
+      <li>Independently developed and trained AI models for fault recognition, fine-grained damage detection, and remaining useful life prediction.</li>
+      <li>Completed the deployment of intelligent models on hardware inspection terminals and the backend management platform.</li>
+      <li>Project supported by the National Undergraduate Innovation Training Program; achieved 2 authorized patents and 2 software copyrights.</li>
+    </ul>
 </div></div>
 
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Smart Home Emotion Recognition" width="100%" /></div></div>
