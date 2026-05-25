@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Qiaomei Duan"
 title_separator          : "-"
-name                     : &name "qiaomeiduan"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Qiaomei Duan"
+description              : &description "Qiaomei Duan's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://qiaomeiduan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiaomeiduan/qiaomeiduan.github.io"
@@ -23,9 +23,9 @@ repository               : "qiaomeiduan/qiaomeiduan.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "qiaomeiduan"
+  name             : "Qiaomei Duan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate student in Intelligent Science and Technology"
   location         : "Chongqing, China"
   employer         : "Southwest University"
   uri              : # URL
@@ -34,13 +34,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -50,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "qiaomeiduan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
