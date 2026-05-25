@@ -96,3 +96,14 @@
     margin-bottom: 0.75rem;
   }
 }
+
+.page__content {
+  max-width: 1180px;
+}
+
+@media (min-width: 1280px) {
+  .paper-box-image {
+    flex-basis: 38%;
+    max-width: 520px;
+  }
+}
