@@ -45,7 +45,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
 ## 🔬 Research Experience
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/框架图4.0.pdf" alt="Structural Granular-Ball Fuzzy Set" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/框架图4.0_01.png" alt="Structural Granular-Ball Fuzzy Set" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning</h3>
 <p><strong>First Author | 2025.02 - 2026.03</strong></p>
