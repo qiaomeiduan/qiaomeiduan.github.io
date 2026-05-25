@@ -53,7 +53,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Proposed a structural granular-ball fuzzy set framework for robust SVM learning.</li>
   <li>Designed quality-weighted class centers using granular-ball radius and purity.</li>
   <li>Built a fuzzy scoring mechanism to reduce the influence of noisy and boundary samples.</li>
-  <li>Work published in review at <em>IEEE Transactions on Knowledge and Data Engineering<em> (SCI Q1 Top, 1st round revision).</li>
+  <li>Work published in review at IEEE Transactions on Knowledge and Data Engineering (SCI Q1 Top, 1st round revision).</li>
 </ul>
 </div></div>
 
@@ -65,7 +65,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Developed an adaptive balanced intuitionistic fuzzy classifier for imbalanced data.</li>
   <li>Introduced adaptive balancing and dual-center fuzzy mechanisms to improve minority-class recognition.</li>
   <li>Enhanced boundary robustness under noisy and imbalanced classification scenarios.</li>
-  <li>Work under second-round review at <em>Applied Soft Computing<em> (SCI Q2).</li>
+  <li>Work under second-round review at Applied Soft Computing (SCI Q2).</li>
 </ul>
 </div></div>
 
@@ -140,8 +140,9 @@ In the competitions below, I mainly contributed to research design, system devel
 
 <span class="anchor" id="practice"></span>
 
-## 🌏 Leadership and Academic Development
+## 🚀 Innovation and Engineering Practice
 
+## 🌏 Leadership and Academic Development
 ### Undergraduate Research and Innovation Projects
 
 - Served as principal investigator or project lead in multiple undergraduate innovation and competition projects.
@@ -149,7 +150,6 @@ In the competitions below, I mainly contributed to research design, system devel
 - Developed experience in academic writing, project defense, teamwork, and interdisciplinary problem solving.
 
 ### Graduate Study Preparation
-
 - I am actively preparing for graduate research in machine learning, robust intelligent systems, fuzzy systems, and AI-driven sensing applications.
 - I welcome communication with researchers and students working on related topics.
 
