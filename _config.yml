@@ -25,10 +25,10 @@ author:
   avatar           : "profile2.jpg"
   name             : "Qiaomei Duan"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student in Intelligent Science and Technology"
+  bio              : "Intelligent Science and Technology"
   location         : "Chongqing, China"
   employer         : "Southwest University"
-  uri              : # URL
+  uri              : "https://qiaomeiduan.github.io"
   email            : "qiaomeiduan@163.com" 
 
   # Academic websites
