@@ -1,11 +1,11 @@
 # The following is the order of the links in the header of the website.
 
 main:
-  - title: "About"
+  - title: "Homepage"
     url: /#about-me
 
-  - title: "Education"
-    url: /#education
+  - title: "About"
+    url: /#about-me
 
   - title: "Research"
     url: /#research
@@ -16,11 +16,11 @@ main:
   - title: "Awards"
     url: /#awards
 
-  - title: "Skills"
-    url: /#skills
+  - title: "Honors"
+    url: /#honors
 
-  - title: "Contact"
-    url: /#contact
+  - title: "Practice"
+    url: /#practice
 
-  - title: "CV"
-    url: /files/Qiaomei-Duan-CV.pdf
+  - title: "Leadership"
+    url: /#leadership
