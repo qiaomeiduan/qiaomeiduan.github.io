@@ -10,107 +10,159 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-# About Me
+## 👋 About Me
 
-I am an undergraduate student in Intelligent Science and Technology at [Southwest University](https://www.swu.edu.cn/), where I am expected to receive my B.Eng. degree in June 2027. I am ranked **1/95** in my major with a GPA of **4.32/5.00**.
+Hi! I'm **Qiaomei Duan** - an undergraduate in Intelligent Science and Technology at the College of Artificial Intelligence, Southwest University.
 
-My current interests lie in machine learning, robust classification, granular-ball computing, fuzzy systems, and intelligent sensing systems. I enjoy research problems where mathematical modeling and deployable AI systems meet, especially under noisy, imbalanced, or low-quality real-world data conditions.
+My current focus is **machine learning, robust classification, granular-ball computing, fuzzy systems, and intelligent sensing systems**. I am especially interested in turning learning algorithms into reliable systems under noisy, imbalanced, and low-quality real-world data conditions.
 
-I am actively preparing for graduate study and welcome academic communication, research collaboration, and project discussion.
+Academically, I am ranked **1/95** in my major with a GPA of **4.32/5.00**. My coursework and research experience have shaped a strong interest in both theoretical modeling and engineering implementation, from robust support vector machine learning to multimodal industrial perception and health management systems.
 
-<span class="anchor" id="education"></span>
-
-# Education
-
-**Southwest University**, Chongqing, China  
-B.Eng. in Intelligent Science and Technology, 2023.09 - 2027.06
-
-- Academic ranking: **1/95**
-- GPA: **4.32/5.00**
-- English: CET-4 546, CET-6 561
-- Honors: National Inspirational Scholarship (twice), Outstanding Communist Youth League Cadre (twice), University-level Merit Student (twice)
-- Selected coursework: Neural Networks and Deep Learning (96), Digital Image Processing (95), Computer Organization (91), C Programming (97), Advanced Mathematics (99), Computer Networks (97)
+I am preparing for graduate study and warmly welcome research collaborations and academic exchanges in related areas.
 
 <span class="anchor" id="research"></span>
 
-# Research Experience
+## 🔬 Research Experience
 
-## Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Structural Granular-Ball Fuzzy Set" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning</h3>
+<p><strong>First Author | 2025.02 - 2026.03</strong></p>
+<p><strong>Qiaomei Duan</strong>, Xiangyu Zou, Shuyin Xia, Libo Zhang*. <em>IEEE Transactions on Fuzzy Systems</em>. SCI Q1 Top, under first-round revision.</p>
+<ul>
+  <li>Studied robust and efficient support vector machine learning under noisy and large-scale data.</li>
+  <li>Participated in proposing the Structural Granular-Ball Fuzzy Set (SGBFS), combining granular-ball computing with fuzzy sets.</li>
+  <li>Introduced quality-weighted class centers based on granular-ball radius and purity.</li>
+  <li>Designed a fuzzy scoring mechanism using membership and non-membership information to distinguish boundary samples from noisy samples.</li>
+</ul>
+</div></div>
 
-**First Author** | 2025.02 - 2026.03
 
-Qiaomei Duan, Xiangyu Zou, Shuyin Xia, Libo Zhang*. **Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning**. *IEEE Transactions on Fuzzy Systems*. SCI Q1 Top, under first-round revision.
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Adaptive Balanced Intuitionistic Fuzzy Classifier" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier for Imbalanced Data</h3>
+<p><strong>Second Author | 2024.04 - 2026.01</strong></p>
+<p>Yixi Dai, <strong>Qiaomei Duan</strong>, Guojun Huang, Shenglin Li, Libo Zhang*. <em>Applied Soft Computing</em>. SCI Q2, under second-round review.</p>
+<ul>
+  <li>Worked on robust classification for imbalanced and noisy datasets.</li>
+  <li>Participated in developing the Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier (ABIFLMC).</li>
+  <li>Introduced adaptive balancing and dual-center intuitionistic fuzzy mechanisms to improve minority-class recognition and boundary robustness.</li>
+</ul>
+</div></div>
 
-- Studied robust and efficient support vector machine learning under noisy and large-scale data.
-- Participated in proposing the Structural Granular-Ball Fuzzy Set (SGBFS), which combines granular-ball computing with fuzzy sets.
-- Introduced quality-weighted class centers based on granular-ball radius and purity.
-- Designed a fuzzy scoring mechanism that combines membership and non-membership information to better distinguish boundary samples from noisy samples.
-
-## Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier for Imbalanced Data
-
-**Second Author** | 2024.04 - 2026.01
-
-Yixi Dai, Qiaomei Duan, Guojun Huang, Shenglin Li, Libo Zhang*. **Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier for Imbalanced Data**. *Applied Soft Computing*. SCI Q2, under second-round review.
-
-- Worked on robust classification for imbalanced and noisy datasets.
-- Participated in developing the Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier (ABIFLMC).
-- Introduced adaptive balancing and dual-center intuitionistic fuzzy mechanisms to improve minority-class recognition and boundary robustness.
 
 <span class="anchor" id="projects"></span>
 
-# Selected Projects
+## 🚀 Selected Projects
 
-## Integrated Intelligent Health Management System for Aero-Engine Gears
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Aero-engine Gear Health Management" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Integrated Intelligent Health Management System for Aero-Engine Gears</h3>
+<p><strong>Principal Investigator | 2025.07 - Present</strong></p>
+<ul>
+  <li>Built a software-hardware collaborative system for aero-engine gear health monitoring.</li>
+  <li>Trained models for fault recognition, fine-grained damage detection, and remaining useful life prediction.</li>
+  <li>Deployed related models to hardware inspection terminals and a backend management platform.</li>
+  <li>Supported by a national-level undergraduate innovation training program; outputs include two authorized patents and two software copyrights.</li>
+</ul>
+</div></div>
 
-**Principal Investigator** | 2025.07 - Present
 
-- Built an intelligent health management system for aero-engine gears, covering condition data acquisition, online inspection, health assessment, and maintenance decision support.
-- Trained models for fault recognition, fine-grained damage detection, and remaining useful life prediction.
-- Deployed related models to hardware inspection terminals and a backend management platform.
-- Supported by a national-level undergraduate innovation training program; the project has produced two authorized patents and two software copyrights.
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Smart Home Emotion Recognition" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Smart Home Emotion Recognition System Based on Sparse Transformer and Graph Enhancement</h3>
+<p><strong>Principal Investigator | 2025.04 - 2026.04</strong></p>
+<ul>
+  <li>Designed a multimodal emotion recognition system for smart home scenarios.</li>
+  <li>Integrated visual and speech signals with sparse Transformer feature extraction and graph-enhanced modeling.</li>
+  <li>Improved emotion recognition accuracy and stability in complex environments.</li>
+  <li>Funded by the Chongqing Undergraduate Innovation Training Program, No. S202510635047.</li>
+</ul>
+</div></div>
 
-## Smart Home Emotion Recognition System Based on Sparse Transformer and Graph Enhancement
 
-**Principal Investigator** | 2025.04 - 2026.04
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Industrial Identity Verification" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Identity Verification and Perception Warning System for Low-Quality Industrial Environments</h3>
+<p><strong>Project Lead | 2024.09 - 2025.10</strong></p>
+<ul>
+  <li>Designed a multimodal security framework for low-quality industrial environments.</li>
+  <li>Integrated masked face generation and recognition, voiceprint recognition, WiFi-CSI spatiotemporal modeling, and multi-sensor edge computing.</li>
+  <li>Built an integrated workflow for identity verification, abnormal perception, and hierarchical warning.</li>
+</ul>
+</div></div>
 
-- Designed a multimodal emotion recognition system for smart home scenarios by integrating visual and speech signals.
-- Combined sparse Transformer feature extraction, speech feature fusion, and graph-enhanced modeling.
-- Improved emotion recognition accuracy and stability in complex home environments.
-- Funded by the Chongqing Undergraduate Innovation Training Program, No. S202510635047.
-
-## Identity Verification and Perception Warning System for Low-Quality Industrial Environments
-
-**Project Lead** | 2024.09 - 2025.10
-
-- Designed a multimodal security framework for low-quality industrial environments.
-- Integrated masked face generation and recognition, voiceprint recognition, WiFi-CSI spatiotemporal feature modeling, and multi-sensor edge computing.
-- Built an integrated workflow for identity verification, abnormal perception, and hierarchical warning.
 
 <span class="anchor" id="awards"></span>
 
-# Awards
+## 🏆 Awards
 
-- 2025.10 National Special Prize, China Youth Science and Technology Innovation Challenge, High-End Equipment Track
-- 2025.07 National First Prize, China Robotics and Artificial Intelligence Competition
-- 2025.11 National Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling
-- 2024.11 National Special Prize, The 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Works Competition
-- 2025.08 Silver Award, China International College Students' Innovation Competition, Chongqing Regional Selection
+In the competitions below, I mainly contributed to research design, system development, algorithm implementation, project organization, and defense preparation.
+
+- 🏆 2025.10 China Youth Science and Technology Innovation Challenge, High-End Equipment Track, National Special Prize
+- 🥇 2025.07 China Robotics and Artificial Intelligence Competition, National First Prize
+- 🥈 2025.11 Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
+- 🏆 2024.11 The 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Works Competition, National Special Prize
+- 🌟 2025.08 China International College Students' Innovation Competition, Chongqing Regional Selection, Silver Award
+
+<span class="anchor" id="honors"></span>
+
+## 🎓 Scholarships and Honors
+
 - National Inspirational Scholarship, twice
 - Outstanding Communist Youth League Cadre, twice
 - University-level Merit Student, twice
+- Academic ranking: 1/95, Intelligent Science and Technology, Southwest University
+- GPA: 4.32/5.00
+- English: CET-4 546, CET-6 561
 
-<span class="anchor" id="skills"></span>
+<span class="anchor" id="practice"></span>
 
-# Skills and Interests
+## 🚀 Innovation and Engineering Practice
 
-- Research areas: machine learning, robust classification, granular-ball computing, fuzzy systems, multimodal sensing, intelligent health management
-- Technical topics: support vector machines, large-margin learning, imbalanced data learning, image processing, deep learning, edge intelligence
-- Programming and systems: C programming, model training, algorithm implementation, hardware-terminal deployment, backend platform integration
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Algorithm and System Practice" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Algorithm Implementation and System Deployment</h3>
+<ul>
+  <li>Implemented machine learning and deep learning pipelines for robust classification, image processing, and multimodal perception tasks.</li>
+  <li>Participated in building deployable systems involving hardware terminals, backend platforms, and intelligent sensing workflows.</li>
+  <li>Developed practical experience in transforming research prototypes into competition and innovation-project deliverables.</li>
+</ul>
+</div></div>
 
-<span class="anchor" id="contact"></span>
 
-# Contact
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Coursework and Technical Foundation" width="100%" /></div></div>
+<div class="paper-box-text">
+<h3>Technical Foundation</h3>
+<ul>
+  <li>Neural Networks and Deep Learning (96)</li>
+  <li>Digital Image Processing (95)</li>
+  <li>Computer Organization (91)</li>
+  <li>C Programming (97)</li>
+  <li>Advanced Mathematics (99)</li>
+  <li>Computer Networks (97)</li>
+</ul>
+</div></div>
 
-- Email: [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com)
-- GitHub: [qiaomeiduan](https://github.com/qiaomeiduan)
-- CV: [Download PDF](/files/Qiaomei-Duan-CV.pdf)
+
+<span class="anchor" id="leadership"></span>
+
+## 🌏 Leadership and Academic Development
+
+### Undergraduate Research and Innovation Projects
+
+- Served as principal investigator or project lead in multiple undergraduate innovation and competition projects.
+- Coordinated research tasks across algorithm design, system implementation, experimental validation, and presentation.
+- Developed experience in academic writing, project defense, teamwork, and interdisciplinary problem solving.
+
+### Graduate Study Preparation
+
+- I am actively preparing for graduate research in machine learning, robust intelligent systems, fuzzy systems, and AI-driven sensing applications.
+- I welcome communication with researchers and students working on related topics.
+
+## 📧 Contact
+
+- 📍 Chongqing, China, College of Artificial Intelligence, Southwest University
+- 💻 GitHub: [qiaomeiduan](https://github.com/qiaomeiduan)
+- 📄 [Curriculum Vitae (PDF)](/files/Qiaomei-Duan-CV.pdf)
+- 📧 Email: [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com)
