@@ -31,10 +31,10 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
       <strong>Southwest University</strong>, Chongqing, China (2023-Present)
     </div>
     <div style="margin-top: 4px; color: #555;">
-      B.Eng. in Intelligent Science and Technology
+      Intelligent Science and Technology (Undergraduate)
     </div>
     <div style="margin-top: 4px; color: #555;">
-      GPA: 4.32/5.00; Ranking: 1/95
+      Ranking: 1/95 (Top 1%), GPA: 4.32/5.00
     </div>
   </div>
 </div>
