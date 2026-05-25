@@ -74,25 +74,23 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/Aero-Engine Gears.png" alt="Aero-engine Gear Health Management" width="100%" /></div></div>
 <div class="paper-box-text">
-    <h3>Integrated Intelligent Health Management System for Aero-Engine Gears</h3>
-    <p><strong>Principal Investigator | 2025.07 - Present</strong></p>
-    <p>This project aims to develop a full-cycle intelligent health management system for aero-engine gears, integrating real-time condition monitoring, fault diagnosis, damage assessment, and remaining useful life prediction to improve operational safety and maintenance efficiency.</p>
-    <ul>
-      <li>Led the design and construction of a software-hardware collaborative system for aero-engine gear health monitoring.</li>
-      <li>Independently developed and trained AI models for fault recognition, fine-grained damage detection, and remaining useful life prediction.</li>
-      <li>Completed the deployment of intelligent models on hardware inspection terminals and the backend management platform.</li>
-      <li>Project supported by the National Undergraduate Innovation Training Program; achieved 2 authorized patents and 2 software copyrights.</li>
-    </ul>
+<h3>Integrated Intelligent Health Management System for Aero-Engine Gears</h3>
+<p><strong>Principal Investigator | 2025.07 - Present</strong></p>
+<p>A full-cycle intelligent health management system for aero-engine gears, covering condition monitoring, fault diagnosis, damage assessment, and remaining useful life prediction.</p>
+<ul>
+  <li>Led the software-hardware system design and model deployment workflow.</li>
+  <li>Developed models for fault recognition, damage detection, and lifetime prediction; produced 2 patents and 2 software copyrights.</li>
+</ul>
 </div></div>
 
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Industrial Identity Verification" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Identity Verification and Perception Warning System for Low-Quality Industrial Environments</h3>
 <p><strong>Project Lead | 2024.09 - 2025.10</strong></p>
+<p>A multimodal industrial security system for identity verification, abnormal perception, and hierarchical warning under low-quality sensing conditions.</p>
 <ul>
-  <li>Designed a multimodal security framework for low-quality industrial environments.</li>
-  <li>Integrated masked face generation and recognition, voiceprint recognition, WiFi-CSI spatiotemporal modeling, and multi-sensor edge computing.</li>
-  <li>Built an integrated workflow for identity verification, abnormal perception, and hierarchical warning.</li>
+  <li>Designed the multimodal framework integrating masked-face recognition, voiceprint recognition, and WiFi-CSI modeling.</li>
+  <li>Built the workflow for identity verification, anomaly perception, and edge-side warning.</li>
 </ul>
 </div></div>
 
@@ -100,12 +98,10 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <div class="paper-box-text">
 <h3>Xunfei Smart Learning - Personalized AI System for Early Childhood Education</h3>
 <p><strong>Core NLP Developer | 2025</strong></p>
-<p><strong>Overview:</strong> This project explores AI-powered early childhood education with large language models, multimodal interaction, educational knowledge resources, and personalized learning support. It aims to provide children with adaptive, interactive, and scenario-aware learning experiences.</p>
-<p><strong>My contributions:</strong></p>
+<p>An AI-powered early childhood education system using large language models, multimodal interaction, and educational knowledge resources for personalized learning.</p>
 <ul>
-  <li>Worked on NLP-related modules for AI-assisted learning interaction and content understanding.</li>
-  <li>Participated in integrating LLM capabilities with educational resources such as knowledge graphs, digital books, videos, and teaching materials.</li>
-  <li>Supported the design of personalized learning workflows for adaptive recommendation and child-friendly interaction.</li>
+  <li>Developed NLP modules for AI-assisted interaction and learning-content understanding.</li>
+  <li>Integrated LLM capabilities with educational resources and personalized recommendation workflows.</li>
 </ul>
 <p><a href="/files/Xunfei-Smart-Learning.pdf">Project PDF</a></p>
 </div></div>
@@ -114,12 +110,10 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <div class="paper-box-text">
 <h3>Zhiyu Anxing - Public Transportation Anomaly Detection System</h3>
 <p><strong>Core Member | 2025</strong></p>
-<p><strong>Overview:</strong> This project builds an intelligent abnormal-behavior detection system for public transportation scenarios, including buses, taxis, ride-hailing vehicles, and rail transit. The system combines vision, audio, multimodal fusion, and decision support to improve real-time safety monitoring while considering privacy protection.</p>
-<p><strong>My contributions:</strong></p>
+<p>An intelligent abnormal-behavior detection system for public transportation, combining vision, audio, multimodal fusion, and decision support.</p>
 <ul>
-  <li>Participated in designing a lightweight detection framework based on YOLOv8 and MobileNetV4 for abnormal behavior recognition.</li>
-  <li>Worked on multimodal anomaly detection involving driver status, passenger behavior, and abnormal sound recognition.</li>
-  <li>Supported the integration of feature fusion and decision strategies for real-time warning, data analysis, and platform demonstration.</li>
+  <li>Participated in the lightweight YOLOv8-MobileNetV4 detection framework design.</li>
+  <li>Worked on multimodal anomaly detection and real-time warning platform integration.</li>
 </ul>
 <p><a href="/files/Zhiyu-Anxing.pdf">Project PDF</a></p>
 </div></div>
