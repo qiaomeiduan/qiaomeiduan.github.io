@@ -20,8 +20,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
 <p><span style="color: #E74C3C; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(231, 76, 60, 0.1);">🤝 I am actively preparing for graduate study and welcome academic exchanges! </span></p>
 
-<p><span style="color: #2E86AB; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(46, 134, 171, 0.1);">📋 Note: I am interested in research opportunities in robust machine learning and intelligent systems. </span></p>
-
+<p><span style="color: #2E86AB; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(46, 134, 171, 0.1);">📋 Note: I am seeking graduate research opportunities in AI, computer science, and interdisciplinary areas that connect intelligent methods with real-world applications. </span></p>
 <span class="anchor" id="education"></span>
 
 ## 📚 Education
