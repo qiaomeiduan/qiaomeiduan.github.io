@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaomei Duan"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,15 +10,35 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-## 👋 About Me
+I am currently an undergraduate student at [Southwest University](https://www.swu.edu.cn/), majoring in Intelligent Science and Technology at the College of Artificial Intelligence, under the mentorship of [Prof. Libo Zhang](https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN).
 
-Hi! I'm **Qiaomei Duan** - an undergraduate in Intelligent Science and Technology at the College of Artificial Intelligence, Southwest University.
+My research focuses on the intersection of machine learning, robust classification, granular-ball computing, fuzzy systems, and intelligent sensing systems.
 
-My current focus is **machine learning, robust classification, granular-ball computing, fuzzy systems, and intelligent sensing systems**. I am especially interested in turning learning algorithms into reliable systems under noisy, imbalanced, and low-quality real-world data conditions.
+You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
-Academically, I am ranked **1/95** in my major with a GPA of **4.32/5.00**. My coursework and research experience have shaped a strong interest in both theoretical modeling and engineering implementation, from robust support vector machine learning to multimodal industrial perception and health management systems.
+<p><span style="color: #E74C3C; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(231, 76, 60, 0.1);">🤝 I am actively preparing for graduate study and welcome academic exchanges! </span></p>
 
-I am preparing for graduate study and warmly welcome research collaborations and academic exchanges in related areas.
+<p><span style="color: #2E86AB; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(46, 134, 171, 0.1);">📋 Note: I am interested in research opportunities in robust machine learning and intelligent systems. </span></p>
+
+<span class="anchor" id="education"></span>
+
+## 📚 Education
+
+<div style="display: flex; align-items: center; margin: 12px 0;">
+  <img src="/images/SWU.svg" style="width: 60px; height: auto; margin-left: 50px; margin-right: 50px;" alt="Southwest University logo" />
+  <div>
+    <div>
+      <strong>Southwest University</strong>, Chongqing, China (2023-Present)
+    </div>
+    <div style="margin-top: 4px; color: #555;">
+      B.Eng. in Intelligent Science and Technology
+    </div>
+    <div style="margin-top: 4px; color: #555;">
+      GPA: 4.32/5.00; Ranking: 1/95
+    </div>
+  </div>
+</div>
+
 
 <span class="anchor" id="research"></span>
 
