@@ -48,11 +48,11 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <div class="paper-box-text">
 <h3>Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning</h3>
 <p><strong>First Author | 2025.02 - 2026.03</strong></p>
-<p><strong>Qiaomei Duan</strong>, Xiangyu Zou, Shuyin Xia, Libo Zhang*. <em>IEEE Transactions on Fuzzy Systems</em>. SCI Q1 Top, under first-round revision.</p>
 <ul>
   <li>Proposed a structural granular-ball fuzzy set framework for robust SVM learning.</li>
   <li>Designed quality-weighted class centers using granular-ball radius and purity.</li>
   <li>Built a fuzzy scoring mechanism to reduce the influence of noisy and boundary samples.</li>
+  <li>Work published in review at *IEEE Transactions on Knowledge and Data Engineering* (SCI Q1 Top, 1st round revision).</li>
 </ul>
 </div></div>
 
@@ -60,11 +60,11 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <div class="paper-box-text">
 <h3>Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier for Imbalanced Data</h3>
 <p><strong>Second Author | 2024.04 - 2026.01</strong></p>
-<p>Yixi Dai, <strong>Qiaomei Duan</strong>, Guojun Huang, Shenglin Li, Libo Zhang*. <em>Applied Soft Computing</em>. SCI Q2, under second-round review.</p>
 <ul>
   <li>Developed an adaptive balanced intuitionistic fuzzy classifier for imbalanced data.</li>
   <li>Introduced adaptive balancing and dual-center fuzzy mechanisms to improve minority-class recognition.</li>
   <li>Enhanced boundary robustness under noisy and imbalanced classification scenarios.</li>
+  <li>Work under second-round review at *Applied Soft Computing* (SCI Q2).</li>
 </ul>
 </div></div>
 
