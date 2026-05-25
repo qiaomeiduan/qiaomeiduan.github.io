@@ -5,14 +5,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 
 <span class="anchor" id="about-me"></span>
 
-I am currently an undergraduate student at [Southwest University](https://www.swu.edu.cn/), majoring in Intelligent Science and Technology at the College of Artificial Intelligence, under the mentorship of [Prof. Libo Zhang](https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN).
+Hi! I'm **Qiaomei Duan** - an undergraduate in Intelligent Science and Technology at the College of Artificial Intelligence, [Southwest University](https://www.swu.edu.cn/), under the mentorship of [Prof. Libo Zhang](https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN). I spend much of my time turning research ideas into working systems that can handle noisy data, complex scenarios, and real deployment constraints.
 
-y current interests span **robust machine learning**, **industrial inspection and computer vision**, and **LLM-based agent systems**. I enjoy the engineering puzzle of making models not only accurate on paper, but also reliable in practice - from robust classification and defect detection to RAG pipelines, LangChain workflows, and LangGraph-based agents.
+My current interests span **robust machine learning**, **industrial inspection and computer vision**, and **LLM-based agent systems**. I enjoy the engineering puzzle of making models not only accurate on paper, but also reliable in practice - from robust classification and defect detection to RAG pipelines, LangChain workflows, and LangGraph-based agents.
 
 Outside experiments and coding, I like building practical tools and working with teams to move ideas from "promising prototype" to "usable system".
 
@@ -21,6 +20,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <p><span style="color: #E74C3C; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(231, 76, 60, 0.1);">🤝 I am actively preparing for graduate study and welcome academic exchanges! </span></p>
 
 <p><span style="color: #2E86AB; font-weight: bold; padding: 5px 10px; border-radius: 4px; background-color: rgba(46, 134, 171, 0.1);">📋 Note: I am seeking graduate research opportunities in AI, computer science, and interdisciplinary areas that connect intelligent methods with real-world applications. </span></p>
+
 <span class="anchor" id="education"></span>
 
 ## 📚 Education
@@ -32,45 +32,41 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
       <strong>Southwest University</strong>, Chongqing, China (2023-Present)
     </div>
     <div style="margin-top: 4px; color: #555;">
-      Intelligent Science and Technology (Undergraduate)
+      B.Eng. in Intelligent Science and Technology
     </div>
     <div style="margin-top: 4px; color: #555;">
-      Ranking: 1/95 (Top 1%), GPA: 4.32/5.00
+      GPA: 4.32/5.00; Ranking: 1/95
     </div>
   </div>
 </div>
-
 
 <span class="anchor" id="research"></span>
 
 ## 🔬 Research Experience
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/框架图4.0_01.png" alt="Structural Granular-Ball Fuzzy Set" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Structural Granular-Ball Fuzzy Set" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning</h3>
 <p><strong>First Author | 2025.02 - 2026.03</strong></p>
 <p><strong>Qiaomei Duan</strong>, Xiangyu Zou, Shuyin Xia, Libo Zhang*. <em>IEEE Transactions on Fuzzy Systems</em>. SCI Q1 Top, under first-round revision.</p>
 <ul>
-  <li>Studied robust and efficient support vector machine learning under noisy and large-scale data.</li>
-  <li>Participated in proposing the Structural Granular-Ball Fuzzy Set (SGBFS), combining granular-ball computing with fuzzy sets.</li>
-  <li>Introduced quality-weighted class centers based on granular-ball radius and purity.</li>
-  <li>Designed a fuzzy scoring mechanism using membership and non-membership information to distinguish boundary samples from noisy samples.</li>
+  <li>Proposed a structural granular-ball fuzzy set framework for robust SVM learning.</li>
+  <li>Designed quality-weighted class centers using granular-ball radius and purity.</li>
+  <li>Built a fuzzy scoring mechanism to reduce the influence of noisy and boundary samples.</li>
 </ul>
 </div></div>
 
-
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/abs.png" alt="Adaptive Balanced Intuitionistic Fuzzy Classifier" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Adaptive Balanced Intuitionistic Fuzzy Classifier" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier for Imbalanced Data</h3>
 <p><strong>Second Author | 2024.04 - 2026.01</strong></p>
 <p>Yixi Dai, <strong>Qiaomei Duan</strong>, Guojun Huang, Shenglin Li, Libo Zhang*. <em>Applied Soft Computing</em>. SCI Q2, under second-round review.</p>
 <ul>
-  <li>Worked on robust classification for imbalanced and noisy datasets.</li>
-  <li>Participated in developing the Adaptive Balanced Intuitionistic Fuzzy Large Margin Classifier (ABIFLMC).</li>
-  <li>Introduced adaptive balancing and dual-center intuitionistic fuzzy mechanisms to improve minority-class recognition and boundary robustness.</li>
+  <li>Developed an adaptive balanced intuitionistic fuzzy classifier for imbalanced data.</li>
+  <li>Introduced adaptive balancing and dual-center fuzzy mechanisms to improve minority-class recognition.</li>
+  <li>Enhanced boundary robustness under noisy and imbalanced classification scenarios.</li>
 </ul>
 </div></div>
-
 
 <span class="anchor" id="projects"></span>
 
@@ -88,7 +84,6 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 </ul>
 </div></div>
 
-
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Smart Home Emotion Recognition" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Smart Home Emotion Recognition System Based on Sparse Transformer and Graph Enhancement</h3>
@@ -101,7 +96,6 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 </ul>
 </div></div>
 
-
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Industrial Identity Verification" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Identity Verification and Perception Warning System for Low-Quality Industrial Environments</h3>
@@ -112,7 +106,6 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Built an integrated workflow for identity verification, abnormal perception, and hierarchical warning.</li>
 </ul>
 </div></div>
-
 
 <span class="anchor" id="awards"></span>
 
@@ -151,7 +144,6 @@ In the competitions below, I mainly contributed to research design, system devel
 </ul>
 </div></div>
 
-
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Coursework and Technical Foundation" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Technical Foundation</h3>
@@ -164,7 +156,6 @@ In the competitions below, I mainly contributed to research design, system devel
   <li>Computer Networks (97)</li>
 </ul>
 </div></div>
-
 
 <span class="anchor" id="leadership"></span>
 
