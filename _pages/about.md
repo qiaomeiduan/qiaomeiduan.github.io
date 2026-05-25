@@ -48,11 +48,12 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <div class="paper-box-text">
 <h3>Structural Granular-Ball Fuzzy Set for Robust Support Vector Machine Learning</h3>
 <p><strong>First Author | 2025.02 - 2026.03</strong></p>
+<p>Code: <a href="https://github.com/qiaomeiduan/SGBFSVM">qiaomeiduan/SGBFSVM</a></p>
 <ul>
   <li>Proposed a structural granular-ball fuzzy set framework for robust SVM learning.</li>
   <li>Designed quality-weighted class centers using granular-ball radius and purity.</li>
   <li>Built a fuzzy scoring mechanism to reduce the influence of noisy and boundary samples.</li>
-  <li>Work published in review at *IEEE Transactions on Knowledge and Data Engineering* (SCI Q1 Top, 1st round revision).</li>
+  <li>Work published in review at <em>IEEE Transactions on Knowledge and Data Engineering<em> (SCI Q1 Top, 1st round revision).</li>
 </ul>
 </div></div>
 
@@ -64,7 +65,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Developed an adaptive balanced intuitionistic fuzzy classifier for imbalanced data.</li>
   <li>Introduced adaptive balancing and dual-center fuzzy mechanisms to improve minority-class recognition.</li>
   <li>Enhanced boundary robustness under noisy and imbalanced classification scenarios.</li>
-  <li>Work under second-round review at *Applied Soft Computing* (SCI Q2).</li>
+  <li>Work under second-round review at <em>Applied Soft Computing<em> (SCI Q2).</li>
 </ul>
 </div></div>
 
@@ -83,7 +84,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 </ul>
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Industrial Identity Verification" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/gongyemingmou.png" alt="Industrial Identity Verification" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Identity Verification and Perception Warning System for Low-Quality Industrial Environments</h3>
 <p><strong>Project Lead | 2024.09 - 2025.10</strong></p>
@@ -94,7 +95,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 </ul>
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Xunfei Smart Learning" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/xunfeizhixue.png" alt="Xunfei Smart Learning" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Xunfei Smart Learning - Personalized AI System for Early Childhood Education</h3>
 <p><strong>Core NLP Developer | 2025</strong></p>
@@ -103,10 +104,9 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Developed NLP modules for AI-assisted interaction and learning-content understanding.</li>
   <li>Integrated LLM capabilities with educational resources and personalized recommendation workflows.</li>
 </ul>
-<p><a href="/files/Xunfei-Smart-Learning.pdf">Project PDF</a></p>
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Zhiyu Anxing Public Transportation Anomaly Detection" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/zhiyuanxing.png" alt="Zhiyu Anxing Public Transportation Anomaly Detection" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Zhiyu Anxing - Public Transportation Anomaly Detection System</h3>
 <p><strong>Core Member | 2025</strong></p>
@@ -115,7 +115,6 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
   <li>Participated in the lightweight YOLOv8-MobileNetV4 detection framework design.</li>
   <li>Worked on multimodal anomaly detection and real-time warning platform integration.</li>
 </ul>
-<p><a href="/files/Zhiyu-Anxing.pdf">Project PDF</a></p>
 </div></div>
 
 <span class="anchor" id="awards"></span>
@@ -124,51 +123,22 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
 In the competitions below, I mainly contributed to research design, system development, algorithm implementation, project organization, and defense preparation.
 
-- 🏆 2025.10 China Youth Science and Technology Innovation Challenge, High-End Equipment Track, National Special Prize
-- 🥇 2025.07 China Robotics and Artificial Intelligence Competition, National First Prize
-- 🥈 2025.11 Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
-- 🏆 2024.11 The 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Works Competition, National Special Prize
-- 🌟 2025.08 China International College Students' Innovation Competition, Chongqing Regional Selection, Silver Award
-
+- 🏆 2025.10 China Youth Science and Technology Innovation Challenge, High-End Equipment Track (National Special Prize, “挑战杯” 全国特等奖)
+- 🥇 2025.08 China Robotics and Artificial Intelligence Competition (National First Prize)
+- 🥈 2025.11 Contemporary Undergraduate Mathematical Contest in Modeling (National Second Prize)
+- 🏆 2024.11 The 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Works Competition (National Special Prize)
+- 🥈 2025.08 China International College Students' Innovation Competition 2025, Chongqing Regional Selection (Provincial Silver Award)
+- 🥉 2025.06 The 27th China Robotics and Artificial Intelligence Competition (Provincial Third Prize)
 <span class="anchor" id="honors"></span>
 
 ## 🎓 Scholarships and Honors
 
-- National Inspirational Scholarship, twice
-- Outstanding Communist Youth League Cadre, twice
-- University-level Merit Student, twice
-- Academic ranking: 1/95, Intelligent Science and Technology, Southwest University
-- GPA: 4.32/5.00
-- English: CET-4 546, CET-6 561
+- **National Inspirational Scholarship** (Top 3%, from [Southwest University](https://www.swu.edu.cn/)) (twice)
+- **Southwest University Outstanding Communist Youth League Cadre** (twice)
+- **Southwest University Merit Student** (twice)
+- **Southwest University Innovation and Entrepreneurship Award**
 
 <span class="anchor" id="practice"></span>
-
-## 🚀 Innovation and Engineering Practice
-
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Algorithm and System Practice" width="100%" /></div></div>
-<div class="paper-box-text">
-<h3>Algorithm Implementation and System Deployment</h3>
-<ul>
-  <li>Implemented machine learning and deep learning pipelines for robust classification, image processing, and multimodal perception tasks.</li>
-  <li>Participated in building deployable systems involving hardware terminals, backend platforms, and intelligent sensing workflows.</li>
-  <li>Developed practical experience in transforming research prototypes into competition and innovation-project deliverables.</li>
-</ul>
-</div></div>
-
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/500x300.png" alt="Coursework and Technical Foundation" width="100%" /></div></div>
-<div class="paper-box-text">
-<h3>Technical Foundation</h3>
-<ul>
-  <li>Neural Networks and Deep Learning (96)</li>
-  <li>Digital Image Processing (95)</li>
-  <li>Computer Organization (91)</li>
-  <li>C Programming (97)</li>
-  <li>Advanced Mathematics (99)</li>
-  <li>Computer Networks (97)</li>
-</ul>
-</div></div>
-
-<span class="anchor" id="leadership"></span>
 
 ## 🌏 Leadership and Academic Development
 
