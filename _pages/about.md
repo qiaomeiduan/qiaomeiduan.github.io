@@ -12,7 +12,9 @@ redirect_from:
 
 I am currently an undergraduate student at [Southwest University](https://www.swu.edu.cn/), majoring in Intelligent Science and Technology at the College of Artificial Intelligence, under the mentorship of [Prof. Libo Zhang](https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN).
 
-My research focuses on the intersection of machine learning, robust classification, granular-ball computing, fuzzy systems, and intelligent sensing systems.
+y current interests span **robust machine learning**, **industrial inspection and computer vision**, and **LLM-based agent systems**. I enjoy the engineering puzzle of making models not only accurate on paper, but also reliable in practice - from robust classification and defect detection to RAG pipelines, LangChain workflows, and LangGraph-based agents.
+
+Outside experiments and coding, I like building practical tools and working with teams to move ideas from "promising prototype" to "usable system".
 
 You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 
