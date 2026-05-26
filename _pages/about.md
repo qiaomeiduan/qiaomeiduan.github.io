@@ -52,7 +52,7 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 <ul>
   <li>Proposed a structural granular-ball fuzzy set framework for robust SVM learning.</li>
   <li>Designed quality-weighted class centers using granular-ball radius and purity.</li>
-  <li>Work published in review at IEEE Transactions on Knowledge and Data Engineering (SCI Q1 Top, 1st round revision).</li>
+ <li>Work published in review at <i>IEEE Transactions on Knowledge and Data Engineering</i> (SCI Q1 Top, 1st round revision).</li>
 </ul>
 </div></div>
 
@@ -94,21 +94,21 @@ You can reach me via email at [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com).
 </ul>
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="/images/xunfeizhixue.png" alt="Xunfei Smart Learning" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="/images/zhiyou-wujie.png" alt="WiseJourney Unbound" width="100%" /></div></div>
 <div class="paper-box-text">
-<h3>Xunfei Smart Learning - Personalized AI System for Early Childhood Education</h3>
-<p><strong>Core NLP Developer | 2025</strong></p>
-<p>An AI-powered early childhood education system using large language models, multimodal interaction, and educational knowledge resources for personalized learning.</p>
+<h3>WiseJourney Unbound - 5G and LLM-driven Smart Cultural Tourism Ecosystem</h3>
+<p><strong>Core Member | 2024</strong></p>
+<p>A smart cultural tourism solution integrating LLM-powered travel services, 5G-enabled scenic-area management, AR/VR guidance, and data-driven personalized recommendation.</p>
 <ul>
-  <li>Developed NLP modules for AI-assisted interaction and learning-content understanding.</li>
-  <li>Integrated LLM capabilities with educational resources and personalized recommendation workflows.</li>
+  <li>Designed the overall solution for a smart tourism APP and scenic-area management platform.</li>
+  <li>Worked on LLM-based intelligent guide functions, personalized route planning, and multimodal tourism interaction.</li>
 </ul>
 </div></div>
 
 <div class="paper-box"><div class="paper-box-image"><div><img src="/images/zhiyuanxing.png" alt="Zhiyu Anxing Public Transportation Anomaly Detection" width="100%" /></div></div>
 <div class="paper-box-text">
 <h3>Zhiyu Anxing - Public Transportation Anomaly Detection System</h3>
-<p><strong>Core Member | 2025</strong></p>
+<p><strong>Project Lead | 2024.10 - 2025.05</strong></p>
 <p>An intelligent abnormal-behavior detection system for public transportation, combining vision, audio, multimodal fusion, and decision support.</p>
 <ul>
   <li>Participated in the lightweight YOLOv8-MobileNetV4 detection framework design.</li>
