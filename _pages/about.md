@@ -140,7 +140,7 @@ In the competitions below, I mainly contributed to research design, system devel
 <span class="anchor" id="practice"></span>
 
 ## 🚀 Innovation and Engineering Practice
-<div class="paper-box"><div class="paper-box-image"><div><img class="company-logo-img" src="/images/tencent-cloud-internship.png" alt="Tencent Cloud Intelligence" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img class="company-logo-img" src="/images/tencent-cloud-internship.jpg" alt="Tencent Cloud Intelligence" /></div></div>
 <div class="paper-box-text">
 <h3>Tencent Cloud Intelligence</h3>
 <p>Website: <a href="https://app-tc.mokahr.com/campus-recruitment/csig/20001#/" target="_blank" rel="noopener noreferrer">cloud.tencent.com</a></p>
