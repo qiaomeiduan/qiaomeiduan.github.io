@@ -166,6 +166,4 @@ In the competitions below, I mainly contributed to research design, system devel
 ## 📧 Contact
 
 - 📍 Chongqing, China, College of Artificial Intelligence, Southwest University
-- 💻 GitHub: [qiaomeiduan](https://github.com/qiaomeiduan)
-- 📄 [Curriculum Vitae (PDF)](/files/Qiaomei-Duan-CV.pdf)
 - 📧 Email: [qiaomeiduan@163.com](mailto:qiaomeiduan@163.com)
