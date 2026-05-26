@@ -107,3 +107,19 @@
     max-width: 520px;
   }
 }
+.company-logo-img {
+  width: 70%;
+  max-width: 280px;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+  box-shadow: none;
+  border: 0;
+}
+
+.paper-box-image:has(.company-logo-img) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 360px;
+}
